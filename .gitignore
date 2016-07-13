@@ -1,3 +1,5 @@
 *.html
 *.css
-*.pyc	git merge conflict from desktop
+*.pyc
+*.pyc git merge conflict test from web
+
